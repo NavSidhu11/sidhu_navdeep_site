@@ -1,6 +1,6 @@
-# Coding Assignment 11 - Docker File (Create React App)
+# Coding Assignment 11 - Docker File (Create Vite & React App)
 
-This project runs a Create React App development server in Docker and serves the app on:
+This project runs a Vite React App development server in Docker and serves the app on:
 
 http://127.0.0.1:7775
 
