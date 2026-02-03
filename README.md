@@ -18,4 +18,7 @@ The page displays:
 From the project root (where Dockerfile is):
 
 ```bash
-docker build -t coding_assignment11 .
+docker build -t sidhu_navdeep_coding_assignment11 .
+
+
+docker run --name singh_navdeep_coding_assignment11 -p 7775:7775 singh_navdeep_coding_assignment11
