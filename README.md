@@ -21,4 +21,4 @@ From the project root (where Dockerfile is):
 docker build -t sidhu_navdeep_coding_assignment11 .
 
 
-docker run --name singh_navdeep_coding_assignment11 -p 7775:7775 singh_navdeep_coding_assignment11
+docker run --name sidhu_navdeep_coding_assignment11 -p 7775:7775 sidhu_navdeep_coding_assignment11
